@@ -64,7 +64,7 @@ Get the seeed voice card source code.
 ```
 git clone --depth=1 https://github.com/respeaker/seeed-voicecard
 cd seeed-voicecard
-sudo ./install.sh
+sudo ./install.sh 2mic
 reboot
 ```
 
